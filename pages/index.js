@@ -56,7 +56,7 @@ export default function Lessons({ sections }) {
           </a>
         ) : null}
         <div className="main-card">
-          <h1 className="lesson-title">Table of Contents</h1>
+          <h1 className="lesson-title">Spis treści</h1>
           <div className="lesson-content">
             <ol className="sections-name">
               {sections.map((section) => (

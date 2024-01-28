@@ -1,14 +1,11 @@
 ---
-title: "Introduction"
-description: "The introduction to this course."
+title: "Znaczące Nazewnictwo (Meaningful Naming)"
+description: "Klarowne i znaczące nazwy zmiennych, funkcji i klas."
 keywords:
   - A course starter
-  - Next.js
-  - React
-  - Brian Holt
 ---
 
-Hello! And welcome to the Next.js course starter by [Brian Holt][twitter].
+Hello! And welcome to the Next.js course starter by
 
 ![Cat, dog, and rat logo for the course](./images/BRAND-WHearts.png)
 
