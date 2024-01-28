@@ -1,18 +1,16 @@
 {
   "author": {
-    "name": "Brian Holt",
-    "company": "Stripe"
+    "name": "Kamil Homernik",
+    "company": "Digital Hub Warsaw @ Bayer"
   },
-  "title": "Next.js Course Starter Kit",
-  "subtitle": "for Frontend Masters",
-  "frontendMastersLink": "https://frontendmasters.com/courses/complete-react-v6/",
+  "title": "Software Engineering Master Class v1 (PL)",
+ "subtitle": "Kurs dla początkujących, skupiający się na najlepszych praktykach programowania i budowaniu solidnych fundamentów inżynierii oprogramowania.",
   "social": {
-    "linkedin": "btholt",
-    "github": "btholt",
-    "twitter": "holtbt"
+    "linkedin": "kamilhomernik",
+    "github": "kamil-homer"
   },
-  "description": "A starter kit for making really amazing courses, optimized for Frontend Masters",
-  "keywords": ["your", "Google", "keywords", "here"],
-  "productionBaseUrl": "/next-course-starter",
+  "description": "Darmowy kurs Software Engineering dla początkujących, który skupia się na przekazywaniu najlepszych praktyk programowania i pomaga rozwijać solidne podstawy w inżynierii oprogramowania.",
+  "keywords": ["Software Engineering", "Początkujący","Programowanie","Darmowy kurs","Najlepsze praktyki","Rozwój umiejętności","Podstawy programowania","Inżynieria oprogramowania","Kurs online","Bezpłatna Edukacja"],
+  "productionBaseUrl": "/software-engineering-v1",
   "csvPath": "./out/lessons.csv"
 }
